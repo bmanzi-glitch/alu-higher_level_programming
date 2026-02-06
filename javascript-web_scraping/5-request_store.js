@@ -18,4 +18,3 @@ request.get(url, (error, response, body) => {
     }
   });
 });
-

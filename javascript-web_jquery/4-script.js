@@ -7,4 +7,3 @@ $('#toggle_header').click(function () {
     header.removeClass('green').addClass('red');
   }
 });
-

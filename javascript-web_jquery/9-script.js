@@ -3,4 +3,3 @@ $(document).ready(function () {
     $('#hello').text(data.hello);
   });
 });
-
