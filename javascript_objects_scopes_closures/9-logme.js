@@ -4,5 +4,3 @@ exports.logMe = function (item) {
   console.log(this.count + ': ' + item);
   this.count++;
 };
-
-

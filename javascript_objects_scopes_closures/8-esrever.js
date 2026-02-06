@@ -7,5 +7,3 @@ exports.esrever = function (list = []) {
   newList.shift();
   return newList;
 };
-
-
